@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="96" alt="TubePreview logo" />
+  <img src="assets/tubepreview-logo.png" width="96" alt="TubePreview logo" />
 </p>
 
 # TubePreview
@@ -27,10 +27,10 @@ It does not upload videos or modify your YouTube channel.
 <table>
   <tr><th>Get started</th><th>Dark feed</th><th>Light feed</th><th>Customize</th></tr>
   <tr>
-    <td><img src="screenshots/onboarding.png" width="210" alt="TubePreview onboarding" /></td>
-    <td><img src="screenshots/home-dark.png" width="210" alt="Thumbnail preview in the dark feed" /></td>
-    <td><img src="screenshots/home-light.png" width="210" alt="Thumbnail preview in the light feed" /></td>
-    <td><img src="screenshots/customize.png" width="210" alt="Channel and video customization" /></td>
+    <td><img src="screenshots/get-started.png" width="210" alt="TubePreview onboarding" /></td>
+    <td><img src="screenshots/feed-dark.png" width="210" alt="Thumbnail preview in the dark feed" /></td>
+    <td><img src="screenshots/feed-light.png" width="210" alt="Thumbnail preview in the light feed" /></td>
+    <td><img src="screenshots/customize-preview.png" width="210" alt="Channel and video customization" /></td>
   </tr>
 </table>
 
