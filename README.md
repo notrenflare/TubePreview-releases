@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app-icon.png" width="96" alt="TubePreview logo" />
+  <img src="assets/launcher-icon.png" width="96" alt="TubePreview logo" />
 </p>
 
 # TubePreview
