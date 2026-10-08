@@ -17,7 +17,7 @@ Android 7.0 or newer · [Release notes](https://github.com/notrenflare/TubePrevi
 
 - Preview a thumbnail alongside sample videos and adjust its feed placement.
 - Customize your channel photo, name, video title, views, and duration.
-- Compare your preview in light mode and a pure-black dark theme.
+- Switch between light mode and a pure-black dark theme, including during setup.
 
 TubePreview is an independent tool and is not affiliated with YouTube or Google.
 It does not upload videos or modify your YouTube channel.
@@ -25,7 +25,7 @@ It does not upload videos or modify your YouTube channel.
 ## Screenshots
 
 <p align="center">
-  <a href="screenshots/onboarding-dark.png"><img src="screenshots/onboarding-dark.png" width="210" alt="TubePreview onboarding" /></a>
+  <a href="screenshots/onboarding-dark.png"><img src="screenshots/onboarding-dark.png" width="210" alt="TubePreview onboarding with a theme toggle" /></a>
   <a href="screenshots/home-dark.png"><img src="screenshots/home-dark.png" width="210" alt="Thumbnail preview in the dark feed" /></a>
   <a href="screenshots/home-light.png"><img src="screenshots/home-light.png" width="210" alt="Thumbnail preview in the light feed" /></a>
   <a href="screenshots/customize.png"><img src="screenshots/customize.png" width="210" alt="Channel and video customization" /></a>
@@ -36,6 +36,9 @@ It does not upload videos or modify your YouTube channel.
 1. [Download the APK](https://github.com/notrenflare/TubePreview-releases/releases/download/v1.0/TubePreview-1.0.apk) and open it.
 2. If Android asks, allow installation from the browser or file manager you used.
 3. Install TubePreview. You can turn that installation permission off afterward.
+
+Some devices currently show a Play Protect warning for this new developer. Do not
+disable Play Protect to install the app.
 
 Install updates over the existing app to keep your settings and imported images.
 The [release page](https://github.com/notrenflare/TubePreview-releases/releases/latest)
