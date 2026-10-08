@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest an improvement to TubePreview.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would you like to improve?
+      description: Describe the workflow or problem behind your request.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change
+    validations:
+      required: true

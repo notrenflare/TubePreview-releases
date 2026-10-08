@@ -9,9 +9,9 @@
 See how your thumbnails, titles, and channel branding look in a YouTube-style
 home feed on Android. No YouTube account required.
 
-[**Download the latest APK →**](https://github.com/notrenflare/TubePreview-releases/releases/latest)
+[**Download TubePreview 1.0 for Android →**](https://github.com/notrenflare/TubePreview-releases/releases/download/v1.0/TubePreview-1.0.apk)
 
-Requires Android 7.0 or newer.
+Android 7.0 or newer · [Release notes](https://github.com/notrenflare/TubePreview-releases/releases/latest)
 
 ## Features
 
@@ -24,35 +24,29 @@ It does not upload videos or modify your YouTube channel.
 
 ## Screenshots
 
-<table>
-  <tr><th>Get started</th><th>Dark feed</th><th>Light feed</th><th>Customize</th></tr>
-  <tr>
-    <td><img src="screenshots/onboarding-dark.png" width="210" alt="TubePreview onboarding" /></td>
-    <td><img src="screenshots/home-dark.png" width="210" alt="Thumbnail preview in the dark feed" /></td>
-    <td><img src="screenshots/home-light.png" width="210" alt="Thumbnail preview in the light feed" /></td>
-    <td><img src="screenshots/customize.png" width="210" alt="Channel and video customization" /></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="screenshots/onboarding-dark.png"><img src="screenshots/onboarding-dark.png" width="210" alt="TubePreview onboarding" /></a>
+  <a href="screenshots/home-dark.png"><img src="screenshots/home-dark.png" width="210" alt="Thumbnail preview in the dark feed" /></a>
+  <a href="screenshots/home-light.png"><img src="screenshots/home-light.png" width="210" alt="Thumbnail preview in the light feed" /></a>
+  <a href="screenshots/customize.png"><img src="screenshots/customize.png" width="210" alt="Channel and video customization" /></a>
+</p>
 
 ## Install
 
-1. Open the [latest release](https://github.com/notrenflare/TubePreview-releases/releases/latest).
-2. Download the `.apk` file under **Assets**, then open it.
-3. If Android asks, allow installation from the browser or file manager you used.
-4. Install TubePreview. You can turn that installation permission off afterward.
+1. [Download the APK](https://github.com/notrenflare/TubePreview-releases/releases/download/v1.0/TubePreview-1.0.apk) and open it.
+2. If Android asks, allow installation from the browser or file manager you used.
+3. Install TubePreview. You can turn that installation permission off afterward.
 
-Install newer releases over the existing app to keep your settings. If you
-previously installed a development build, Android may require you to uninstall it
-first because it uses a different signing key. Uninstalling removes local app data.
-
-Each release includes a SHA-256 checksum for verifying the downloaded APK.
+Install updates over the existing app to keep your settings and imported images.
+The [release page](https://github.com/notrenflare/TubePreview-releases/releases/latest)
+includes the APK checksum and signing certificate fingerprint.
 
 ## Privacy
 
 Your imported images and preview settings stay in private app storage.
 There is no sign-in or backend service, and imported images are not uploaded.
 Sample feed photos load from Unsplash over HTTPS. App data is excluded from
-Android backup and device transfer.
+Android backup and device transfer. Uninstalling removes your local app data.
 
 ## Feedback
 
