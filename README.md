@@ -25,10 +25,10 @@ It does not upload videos or modify your YouTube channel.
 ## Screenshots
 
 <p align="center">
-  <a href="screenshots/onboarding-dark.png"><img src="screenshots/onboarding-dark.png" width="210" alt="TubePreview onboarding with a theme toggle" /></a>
-  <a href="screenshots/home-dark.png"><img src="screenshots/home-dark.png" width="210" alt="Thumbnail preview in the dark feed" /></a>
-  <a href="screenshots/home-light.png"><img src="screenshots/home-light.png" width="210" alt="Thumbnail preview in the light feed" /></a>
-  <a href="screenshots/customize.png"><img src="screenshots/customize.png" width="210" alt="Channel and video customization" /></a>
+  <a href="screenshots/onboarding-dark.png"><img src="screenshots/onboarding-dark.png" width="190" alt="TubePreview onboarding with a theme toggle" /></a>
+  <a href="screenshots/home-dark.png"><img src="screenshots/home-dark.png" width="190" alt="Thumbnail preview in the dark feed" /></a>
+  <a href="screenshots/home-light.png"><img src="screenshots/home-light.png" width="190" alt="Thumbnail preview in the light feed" /></a>
+  <a href="screenshots/customize.png"><img src="screenshots/customize.png" width="190" alt="Channel and video customization" /></a>
 </p>
 
 ## Install
