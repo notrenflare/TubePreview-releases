@@ -37,7 +37,7 @@ It does not upload videos or modify your YouTube channel.
 ## Install
 
 1. Open the [latest release](https://github.com/notrenflare/TubePreview-releases/releases/latest).
-2. Download `TubePreview-1.0.apk` under **Assets**, then open the file.
+2. Download the `.apk` file under **Assets**, then open it.
 3. If Android asks, allow installation from the browser or file manager you used.
 4. Install TubePreview. You can turn that installation permission off afterward.
 
