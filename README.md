@@ -59,4 +59,8 @@ reports and feature requests. Remove private content from screenshots and logs.
 This repository hosts downloads and release documentation. The application source
 is maintained privately.
 
+Icons: [Streamline](https://streamlinehq.com) and [Material Icons](https://fonts.google.com/icons).
+Setup typography: [Nunito](https://fonts.google.com/specimen/Nunito).
+See [third-party notices](THIRD_PARTY_NOTICES.md) for asset licenses.
+
 Made with ❤️ by [**renflare**](https://github.com/notrenflare).
