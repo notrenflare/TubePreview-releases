@@ -16,5 +16,9 @@ read from its customization screen.
 The preview feed also uses Material Icons provided by AndroidX Compose Material,
 licensed under [Apache License 2.0](https://github.com/androidx/androidx/blob/androidx-main/LICENSE.txt).
 
+The supplied Shorts artwork identifies the YouTube Shorts preview format and is
+separate from the Streamline icon sets. TubePreview is not affiliated with YouTube
+or Google.
+
 These licenses apply to the third-party assets only. They do not grant a license
 to the TubePreview application source or branding.

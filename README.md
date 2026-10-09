@@ -28,6 +28,9 @@ It does not upload videos or modify your YouTube channel.
   <a href="screenshots/onboarding-dark.png"><img src="screenshots/onboarding-dark.png" width="190" alt="TubePreview onboarding with a theme toggle" /></a>
   <a href="screenshots/home-dark.png"><img src="screenshots/home-dark.png" width="190" alt="Thumbnail preview in the dark feed" /></a>
   <a href="screenshots/home-light.png"><img src="screenshots/home-light.png" width="190" alt="Thumbnail preview in the light feed" /></a>
+</p>
+<p align="center">
+  <a href="screenshots/shorts.png"><img src="screenshots/shorts.png" width="190" alt="Two-column Shorts preview" /></a>
   <a href="screenshots/customize.png"><img src="screenshots/customize.png" width="190" alt="Channel and video customization" /></a>
 </p>
 
@@ -36,9 +39,6 @@ It does not upload videos or modify your YouTube channel.
 1. [Download the APK](https://github.com/notrenflare/TubePreview-releases/releases/download/v1.0/TubePreview-1.0.apk) and open it.
 2. If Android asks, allow installation from the browser or file manager you used.
 3. Install TubePreview. You can turn that installation permission off afterward.
-
-Some devices currently show a Play Protect warning for this new developer. Do not
-disable Play Protect to install the app.
 
 Install updates over the existing app to keep your settings and imported images.
 The [release page](https://github.com/notrenflare/TubePreview-releases/releases/latest)
