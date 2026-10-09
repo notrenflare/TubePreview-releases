@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a problem with TubePreview.
+description: Tell me what went wrong.
 body:
   - type: markdown
     attributes:
@@ -21,20 +21,20 @@ body:
   - type: textarea
     id: steps
     attributes:
-      label: Steps to reproduce
-      description: What did you do before the problem appeared?
+      label: How can I reproduce it?
+      description: List what you did before the problem appeared.
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
-      label: Expected behavior
+      label: What did you expect to happen?
     validations:
       required: true
   - type: textarea
     id: actual
     attributes:
-      label: Actual behavior
+      label: What happened instead?
       description: Include a screenshot if it helps explain the problem.
     validations:
       required: true

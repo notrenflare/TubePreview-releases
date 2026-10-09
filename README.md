@@ -6,8 +6,9 @@
 
 **Preview before you publish.**
 
-See how your thumbnails, titles, and channel branding look in a YouTube-style
-home feed on Android. No YouTube account required.
+I built TubePreview to check how a thumbnail looks in a YouTube-style feed before
+publishing. Add your image, try a title, and see it alongside sample videos.
+No YouTube sign-in needed.
 
 [**Download TubePreview 1.0 for Android →**](https://github.com/notrenflare/TubePreview-releases/releases/download/v1.0/TubePreview-1.0.apk)
 
@@ -15,12 +16,12 @@ Android 7.0 or newer · [Release notes](https://github.com/notrenflare/TubePrevi
 
 ## Features
 
-- Preview a thumbnail alongside sample videos and adjust its feed placement.
-- Customize your channel photo, name, video title, views, and duration.
-- Switch between light mode and a pure-black dark theme, including during setup.
+- See your thumbnail alongside sample videos and choose where it appears.
+- Try different titles, channel photos, names, view counts, and durations.
+- Compare your preview in light mode and a pure-black dark theme.
 
-TubePreview is an independent tool and is not affiliated with YouTube or Google.
-It does not upload videos or modify your YouTube channel.
+TubePreview is an independent preview tool. It isn't affiliated with YouTube or
+Google, and it doesn't upload videos or change your channel.
 
 ## Screenshots
 
@@ -40,32 +41,23 @@ It does not upload videos or modify your YouTube channel.
 2. If Android asks, allow installation from the browser or file manager you used.
 3. Install TubePreview. You can turn that installation permission off afterward.
 
-Install updates over the existing app to keep your settings and imported images.
-The [release page](https://github.com/notrenflare/TubePreview-releases/releases/latest)
-includes the APK checksum and signing certificate fingerprint.
-
-Google Play Protect may show an unfamiliar-developer warning. The current APK has
-been submitted to Google for review. Its [VirusTotal scan](https://www.virustotal.com/gui/file/b5c61ac33e3c787073b254a658a927343db7f9f4dccc7b6593fc9afbd5ca3304/detection)
-recorded 0 detections from 67 vendors on October 9, 2026; this is not Play Protect
-approval.
+When an update is available, install it over the existing app to keep your settings
+and imported images. [Release files and scan results](SECURITY.md#release-checks)
+are available if you'd like to check the download.
 
 ## Privacy
 
-Your imported images and preview settings stay in private app storage.
-There is no sign-in or backend service, and imported images are not uploaded.
-Sample feed photos load from Unsplash over HTTPS. App data is excluded from
-Android backup and device transfer. Uninstalling removes your local app data.
+Your thumbnails, channel photo, and preview settings stay on your device;
+TubePreview doesn't upload them. Sample feed photos load from Unsplash over HTTPS.
+App data isn't included in Android backup or device transfer. Uninstalling the app
+removes your saved previews.
 
 ## Feedback
 
-Use [Issues](https://github.com/notrenflare/TubePreview-releases/issues) for bug
-reports and feature requests. Remove private content from screenshots and logs.
+If you spot a bug or have an idea, [let me know](https://github.com/notrenflare/TubePreview-releases/issues/new/choose).
+Screenshots are welcome; please remove personal information before posting them.
 
-This repository hosts downloads and release documentation. The application source
-is maintained privately.
-
-Icons: [Streamline](https://streamlinehq.com) and [Material Icons](https://fonts.google.com/icons).
-Setup typography: [Nunito](https://fonts.google.com/specimen/Nunito).
-See [third-party notices](THIRD_PARTY_NOTICES.md) for asset licenses.
+This repo is for downloads and feedback. The app's source code is private.
+Asset credits and licenses are in [third-party notices](THIRD_PARTY_NOTICES.md).
 
 Made with ❤️ by [**renflare**](https://github.com/notrenflare).
