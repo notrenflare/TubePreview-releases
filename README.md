@@ -44,6 +44,11 @@ Install updates over the existing app to keep your settings and imported images.
 The [release page](https://github.com/notrenflare/TubePreview-releases/releases/latest)
 includes the APK checksum and signing certificate fingerprint.
 
+Google Play Protect may show an unfamiliar-developer warning. The current APK has
+been submitted to Google for review. Its [VirusTotal scan](https://www.virustotal.com/gui/file/b5c61ac33e3c787073b254a658a927343db7f9f4dccc7b6593fc9afbd5ca3304/detection)
+recorded 0 detections from 67 vendors on October 9, 2026; this is not Play Protect
+approval.
+
 ## Privacy
 
 Your imported images and preview settings stay in private app storage.
