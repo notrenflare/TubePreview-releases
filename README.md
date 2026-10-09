@@ -4,11 +4,8 @@
 
 # TubePreview
 
-**Preview before you publish.**
-
-I built TubePreview to check how a thumbnail looks in a YouTube-style feed before
-publishing. Add your image, try a title, and see it alongside sample videos.
-No YouTube sign-in needed.
+TubePreview is an Android app for previewing thumbnails and titles in a
+YouTube-style feed before publishing. No YouTube sign-in required.
 
 [**Download TubePreview 1.0 for Android →**](https://github.com/notrenflare/TubePreview-releases/releases/download/v1.0/TubePreview-1.0.apk)
 
@@ -41,9 +38,9 @@ Google, and it doesn't upload videos or change your channel.
 2. If Android asks, allow installation from the browser or file manager you used.
 3. Install TubePreview. You can turn that installation permission off afterward.
 
-When an update is available, install it over the existing app to keep your settings
-and imported images. [Release files and scan results](SECURITY.md#release-checks)
-are available if you'd like to check the download.
+Install updates over the existing app to keep your settings and imported images.
+See [release checks](SECURITY.md#release-checks) for checksums, signing details,
+and scan results.
 
 ## Privacy
 
@@ -54,10 +51,10 @@ removes your saved previews.
 
 ## Feedback
 
-If you spot a bug or have an idea, [let me know](https://github.com/notrenflare/TubePreview-releases/issues/new/choose).
+[Report a bug or suggest a feature](https://github.com/notrenflare/TubePreview-releases/issues/new/choose).
 Screenshots are welcome; please remove personal information before posting them.
 
-This repo is for downloads and feedback. The app's source code is private.
+This repository hosts app downloads and feedback. The app's source code is private.
 Asset credits and licenses are in [third-party notices](THIRD_PARTY_NOTICES.md).
 
 Made with ❤️ by [**renflare**](https://github.com/notrenflare).

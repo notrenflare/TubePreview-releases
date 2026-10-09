@@ -1,16 +1,16 @@
 name: Feature request
-description: Share an idea for TubePreview.
+description: Suggest an improvement to TubePreview.
 body:
   - type: textarea
     id: problem
     attributes:
-      label: What would you like to improve?
-      description: Tell me what you'd like to do and what's getting in the way.
+      label: Problem or use case
+      description: Describe what you'd like to do and what's getting in the way.
     validations:
       required: true
   - type: textarea
     id: suggestion
     attributes:
-      label: What would you change?
+      label: Proposed solution
     validations:
       required: true

@@ -1,6 +1,6 @@
 # Security
 
-If you find a security issue, please [send me a private report](https://github.com/notrenflare/TubePreview-releases/security/advisories/new).
+If you find a security issue, please [report it privately](https://github.com/notrenflare/TubePreview-releases/security/advisories/new).
 Include the app version, steps to reproduce it, and what could be affected.
 Please keep personal information and credentials out of public issues.
 
@@ -24,5 +24,4 @@ b5c61ac33e3c787073b254a658a927343db7f9f4dccc7b6593fc9afbd5ca3304
 
 If Google Play Protect displays a message during installation, check its details
 and [Google's guidance](https://developers.google.com/android/play-protect/warning-dev-guidance).
-I'm tracking reports of unfamiliar-developer warnings for this release; its
-Play Protect appeal has been submitted.
+A Play Protect appeal has been submitted for this release.
